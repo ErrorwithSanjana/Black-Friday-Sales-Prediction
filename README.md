@@ -1,6 +1,6 @@
 # Black Friday Sales Prediction
 
-![Black Friday Sales Prediction](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
+
 
 ## Table of Contents
 - [Project Introduction](#project-introduction)
