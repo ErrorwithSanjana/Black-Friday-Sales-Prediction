@@ -28,7 +28,6 @@ The dataset used in this project was obtained from an online data analytics hack
 
 - Age  
 - Gender  
-- Marital Status  
 - Product Categories  
 - City Demographics  
 - Purchase Amount  
